@@ -17,5 +17,5 @@ Made by [Automat-IT](https://www.automat-it.com/)
 ## Installation
 
 ```bash
-npm i strapi-provider-email-nodemailer
+npm i MaheshCasiraghi/strapi-provider-email-nodemailer
 ```
